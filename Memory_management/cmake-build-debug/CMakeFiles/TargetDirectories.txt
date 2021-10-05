@@ -1,0 +1,3 @@
+/Users/luxihua/Documents/C语言程序设计现代方法/Memory_management/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/luxihua/Documents/C语言程序设计现代方法/Memory_management/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luxihua/Documents/C语言程序设计现代方法/Memory_management/cmake-build-debug/CMakeFiles/Memory_management.dir

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luxihua/Documents/C语言程序设计现代方法/point_add/app.h
+
+/Users/luxihua/Documents/C语言程序设计现代方法/point_add/main.c
+stdio.h
+-
+app.h
+/Users/luxihua/Documents/C语言程序设计现代方法/point_add/app.h
+
